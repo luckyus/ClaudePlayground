@@ -1,0 +1,5 @@
+/Users/brianleung/Repos/ClaudePlayground/TicTacToe/bin/Release/net10.0/publish/TicTacToe
+/Users/brianleung/Repos/ClaudePlayground/TicTacToe/bin/Release/net10.0/publish/TicTacToe.dll
+/Users/brianleung/Repos/ClaudePlayground/TicTacToe/bin/Release/net10.0/publish/TicTacToe.deps.json
+/Users/brianleung/Repos/ClaudePlayground/TicTacToe/bin/Release/net10.0/publish/TicTacToe.runtimeconfig.json
+/Users/brianleung/Repos/ClaudePlayground/TicTacToe/bin/Release/net10.0/publish/TicTacToe.pdb

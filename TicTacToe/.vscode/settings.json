@@ -1,0 +1,5 @@
+{
+	"appService.preDeployTask": "publish-release",
+	"appService.deploySubpath": "bin/Release/net10.0/publish",
+	"appService.defaultWebAppToDeploy": "/subscriptions/599afd38-3500-421a-bb0c-c90d7b8e0af8/resourceGroups/HelloWorld/providers/Microsoft.Web/sites/tictactoe-lucky"
+}
