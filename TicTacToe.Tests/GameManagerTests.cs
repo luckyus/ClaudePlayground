@@ -47,6 +47,7 @@ public class GameManagerTests
 
         Assert.NotNull(result);
         Assert.Equal("X", result.Winner);
+        Assert.NotNull(result.WinLine);
         Assert.Equal([0, 1, 2], result.WinLine);
     }
 
