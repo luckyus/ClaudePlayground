@@ -1,4 +1,5 @@
 .mcp.json
+*.PublishSettings
 
 # .NET build output
 bin/
