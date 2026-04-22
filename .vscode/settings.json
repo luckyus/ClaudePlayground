@@ -1,4 +1,5 @@
 {
-	"appService.defaultWebAppToDeploy": "/subscriptions/599afd38-3500-421a-bb0c-c90d7b8e0af8/resourceGroups/appsvc_windows_japanwest/providers/Microsoft.Web/sites/claudecodeconcept",
-	"appService.deploySubpath": "TicTacToe"
+	"appService.defaultWebAppToDeploy": "/subscriptions/599afd38-3500-421a-bb0c-c90d7b8e0af8/resourceGroups/HelloWorld/providers/Microsoft.Web/sites/tictactoe-lucky",
+	"appService.deploySubpath": "TicTacToe/bin/Release/net10.0/publish",
+	"appService.preDeployTask": "publish-release"
 }
